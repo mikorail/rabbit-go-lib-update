@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	rabbitPub "git.ainosi.co.id/jaklingko/lib/rabbit-go-lib-update/publisher"
-	rabbit "git.ainosi.co.id/jaklingko/lib/rabbit-go-lib-update/rabbitmq"
+	rabbitPub "git.ainosi.co.id/jaklingko/lib/rabbitmq/publisher"
+	rabbit "git.ainosi.co.id/jaklingko/lib/rabbitmq/rabbitmq"
 )
 
 func main() {

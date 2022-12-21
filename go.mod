@@ -1,4 +1,4 @@
-module git.ainosi.co.id/jaklingko/lib/rabbit-go-lib-update
+module git.ainosi.co.id/jaklingko/lib/rabbitmq
 
 go 1.18
 

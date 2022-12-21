@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"git.ainosi.co.id/jaklingko/lib/rabbit-go-lib-update/lib/debug"
-	"git.ainosi.co.id/jaklingko/lib/rabbit-go-lib-update/rabbitmq"
+	"git.ainosi.co.id/jaklingko/lib/rabbitmq/lib/debug"
+	"git.ainosi.co.id/jaklingko/lib/rabbitmq/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

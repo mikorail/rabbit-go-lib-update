@@ -4,7 +4,7 @@ import (
 	"log"
 	"sync"
 
-	"git.ainosi.co.id/jaklingko/lib/rabbit-go-lib-update/rabbitmq"
+	"git.ainosi.co.id/jaklingko/lib/rabbitmq/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
