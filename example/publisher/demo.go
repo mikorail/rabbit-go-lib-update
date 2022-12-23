@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mikorail/go-rabbit-lib/lib/debug"
-	"github.com/mikorail/go-rabbit-lib/rabbitmq"
+	"github.com/mikorail/rabbit-go-lib-update/lib/debug"
+	"github.com/mikorail/rabbit-go-lib-update/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

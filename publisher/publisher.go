@@ -4,7 +4,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/mikorail/go-rabbit-lib/rabbitmq"
+	"github.com/mikorail/rabbit-go-lib-update/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

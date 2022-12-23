@@ -1,4 +1,4 @@
-module github.com/mikorail/go-rabbit-lib
+module github.com/mikorail/rabbit-go-lib-update
 
 go 1.18
 

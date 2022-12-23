@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	debug "github.com/mikorail/go-rabbit-lib/lib/debug"
+	debug "github.com/mikorail/rabbit-go-lib-update/lib/debug"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
