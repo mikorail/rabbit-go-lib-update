@@ -48,7 +48,7 @@ func NewConsumer2(ch *rabbitmq.Channel, exchangeName string, routingKeys []strin
 	if err != nil {
 		log.Panic(err)
 	}
-	q, err := ch.QueueDeclare(queueName, true, false, true, false, nil)
+	q, err := ch.QueueDeclare(queueName, true, false, false, false, nil)
 	if err != nil {
 		log.Panic(err)
 	}
