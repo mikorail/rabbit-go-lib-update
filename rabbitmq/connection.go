@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	debug "git.ainosi.co.id/jaklingko/lib/rabbitmq/lib/debug"
+	debug "github.com/mikorail/go-rabbit-lib/lib/debug"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

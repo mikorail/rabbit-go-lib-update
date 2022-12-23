@@ -6,10 +6,10 @@ import (
 	"os"
 	"sync"
 
-	consumer "git.ainosi.co.id/jaklingko/lib/rabbitmq/consumer"
-	"git.ainosi.co.id/jaklingko/lib/rabbitmq/lib/debug"
-	rabbitmq "git.ainosi.co.id/jaklingko/lib/rabbitmq/rabbitmq"
 	config "github.com/joho/godotenv"
+	consumer "github.com/mikorail/go-rabbit-lib/consumer"
+	"github.com/mikorail/go-rabbit-lib/lib/debug"
+	rabbitmq "github.com/mikorail/go-rabbit-lib/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 	// publisher "git.ainosi.co.id/go-libs/rabbit-lib/publisher"
 )

@@ -4,8 +4,8 @@ import (
 	"log"
 	"sync"
 
-	"git.ainosi.co.id/jaklingko/lib/rabbitmq/lib/debug"
-	"git.ainosi.co.id/jaklingko/lib/rabbitmq/rabbitmq"
+	"github.com/mikorail/go-rabbit-lib/lib/debug"
+	"github.com/mikorail/go-rabbit-lib/rabbitmq"
 )
 
 func main() {

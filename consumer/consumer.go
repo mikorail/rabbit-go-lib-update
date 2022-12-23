@@ -3,7 +3,7 @@ package consumer
 import (
 	"log"
 
-	"git.ainosi.co.id/jaklingko/lib/rabbitmq/rabbitmq"
+	"github.com/mikorail/go-rabbit-lib/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
